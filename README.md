@@ -14,3 +14,4 @@ I'm now a third year student, taking up Bachelor of Science in Information Techn
 I wanted to learn different programming language.
 And to share what i can offer even though I am not great at explaining.
 That is the reason why I am here. 
+To learn, to explore, to share and enhance my skill.
